@@ -4,3 +4,7 @@ It will deal with all kinds of diversified problems of the women's healthcare.
 It will also have facility to engage with Doctors if the user feels to consult with them.
 There will also be a gender neutral community that will promote the taboo topics to normal in the society.
 
+
+
+
+[women health problem chatbot.pptx](https://github.com/dopender25/hello_health/files/9996623/women.health.problem.chatbot.pptx)
